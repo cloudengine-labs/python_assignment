@@ -24,8 +24,8 @@ Please create an user account in GitHub, if you don't have one.
 
 ### Assignment problem statements
 #### Must have requirements
-- [ ] Step 1: Create a Python Program to get the user input and print it
-- [ ] Step 2: Create a `Dockerfile` to create a container image for the program in the repo and use the `alpine` version of baseimage in `Dockerfile`
+- [ ] Step 1: Create a Python Program to get the user input and print it to the console. Name the file as `print_text.py`
+- [ ] Step 2: Create a `Dockerfile` to create a container image for the program created in _step 1_ and use the `alpine` version of base image in `Dockerfile`
 - [ ] Step 3: Test the `Dockerfile` by building the image 
 - [ ] Step 4: Run the image as a container. Capture console output and save it in a text file
 - [ ] Step 5: Commit and Push the updated code into your GitHub repo
